@@ -187,12 +187,8 @@ Staff / Agent Portal:
 
 `http://localhost/osTicket/scp/login.php`
 
-End User Portal:
-
-`http://localhost/osTicket/`
-
 <p>
-<img src="YOUR_SCREENSHOT_URL" width="80%" alt="osTicket Portal"/>
+<img width="1722" height="970" alt="image" src="https://github.com/user-attachments/assets/e35b86f5-93ce-49f7-a6b8-dcacdc54bb96" />
 </p>
 
 ## 12. Post-Installation Security
