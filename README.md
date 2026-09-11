@@ -93,7 +93,7 @@ Register:
 Restart IIS.
 
 <p>
-<img src="YOUR_SCREENSHOT_URL" width="80%" alt="PHP Manager"/>
+<img width="1282" height="652" alt="image" src="https://github.com/user-attachments/assets/d2ce4719-7e04-4e6c-a508-88a2bfa9c006" />
 </p>
 
 ## 6. Install osTicket
@@ -115,7 +115,7 @@ Final path:
 Restart IIS and open the osTicket website.
 
 <p>
-<img src="YOUR_SCREENSHOT_URL" width="80%" alt="osTicket Installation"/>
+<img width="1266" height="665" alt="image" src="https://github.com/user-attachments/assets/08cf063e-f774-4a6a-942a-bc4167c5b693" />
 </p>
 
 ## 7. Enable PHP Extensions
@@ -129,7 +129,7 @@ Enable the following extensions in PHP Manager:
 Refresh the osTicket installer to verify the requirements.
 
 <p>
-<img src="YOUR_SCREENSHOT_URL" width="80%" alt="PHP Extensions"/>
+<img width="1266" height="665" alt="image" src="https://github.com/user-attachments/assets/3ec67f40-2de2-4f63-863d-907e5d703225" />
 </p>
 
 ## 8. Configure osTicket
@@ -149,7 +149,7 @@ Location:
 Temporarily configure the required file permissions so the installer can modify the configuration file.
 
 <p>
-<img src="YOUR_SCREENSHOT_URL" width="80%" alt="osTicket Configuration"/>
+<img width="922" height="577" alt="image" src="https://github.com/user-attachments/assets/315f72b4-a857-4182-98b6-3f740a44d588" />
 </p>
 
 ## 9. Create the Database
@@ -161,7 +161,7 @@ Connect to the local MySQL server and create a database named:
 `osTicket`
 
 <p>
-<img src="YOUR_SCREENSHOT_URL" width="80%" alt="osTicket Database"/>
+<img width="1055" height="661" alt="image" src="https://github.com/user-attachments/assets/396c3c1f-9998-47ea-87cd-0a3aef99557b" />
 </p>
 
 ## 10. Complete the Installation
@@ -177,7 +177,8 @@ Database settings:
 Click **Install Now**.
 
 <p>
-<img src="YOUR_SCREENSHOT_URL" width="80%" alt="osTicket Installation Complete"/>
+<img width="1726" height="915" alt="1" src="https://github.com/user-attachments/assets/0bb0c80d-f8b3-4639-b548-c72809af6452" />
+<img width="925" height="716" alt="2" src="https://github.com/user-attachments/assets/f8180296-df8a-4428-a77c-284f629172ff" />
 </p>
 
 ## 11. Verify the Installation
